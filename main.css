@@ -1,0 +1,84 @@
+body {
+    margin: 0;
+}
+#main {
+    background-image: url(./images/Bg.png);
+    background-size: cover;
+    background-position: center;
+}
+#main_container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+#header {
+    padding: 51px 0;
+}
+#logo {
+    color: white;
+    font-size: 16px;
+    margin-right: 208px;
+
+}
+#header .menu_item {
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    margin-right: 100px;
+}
+
+#info {
+    padding: 260px 0px 150px 0px;
+}
+#info h1 {
+    margin: 0;
+    color: white;
+    font-size: 60px;
+    max-width: 468px;
+}
+#action {
+    margin-top: 45px;
+}
+#action button {
+    width: 228px;
+    height: 57px;
+    color: white;
+    font-size: 18px;
+}
+#action-reserve {
+    background-color: #2f863c;
+    border: 1px solid #2f863c;
+    margin-right: 30px;
+}
+#action-show-menu {
+    background: transparent;
+    border: 1px solid white;
+}
+
+#food {
+    background: #f2f2f2;
+    padding: 76px 0 137px 0;
+}
+#food_container {
+    max-width: 520px;
+    margin: 0 auto;
+}
+#food_title {
+    font-size: 36px;
+    color: #d2a828;
+    font-weight: bold;
+    text-align: center;
+}
+#food_text {
+    font-size: 16px;
+    color: #939393;
+    font-style: italic;
+    line-height: 1.5;
+    text-align: center;
+    margin: 43px auto 0 auto;
+    max-width: 435px;
+    
+}
+#food_picture {
+    margin: 61px auto 0 auto;
+    text-align: center;
+}
